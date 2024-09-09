@@ -21,7 +21,7 @@ To install the dependencies run 'npm i' in the terminal.
 
 ## Usage
 
-Run 'npm run develop' to start the application. 
+Run 'npm run seed' to seed the database with products, categories and users, 'npm run develop' to start the application. 
 
 ## License
 
@@ -34,5 +34,6 @@ This project is licensed under the MIT License. For more information, please vis
 Please reach out for additional questions through email: hunterthompson025@gmail.com. For more of my work check out my GitHub page: [hunterthompson025](https://github.com/hunterthompson025)
 
 ## Link to Deployed Application on Render.com
+https://sliceshop-redux-ecommerce.onrender.com/
 
 ## Screenshot of Application

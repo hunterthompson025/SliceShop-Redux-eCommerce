@@ -37,3 +37,4 @@ Please reach out for additional questions through email: hunterthompson025@gmail
 https://sliceshop-redux-ecommerce.onrender.com/
 
 ## Screenshot of Application
+![SliceShop](https://github.com/user-attachments/assets/5404fa39-39c1-4138-ab80-d60a21f725c0)

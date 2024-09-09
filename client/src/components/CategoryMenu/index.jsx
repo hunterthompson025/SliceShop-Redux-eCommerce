@@ -4,7 +4,7 @@ import { useStoreContext } from '../../utils/GlobalState';
 import {
   UPDATE_CATEGORIES,
   UPDATE_CURRENT_CATEGORY,
-} from '../../utils/actions';
+} from '../../utils/appSlice';
 import { QUERY_CATEGORIES } from '../../utils/queries';
 import { idbPromise } from '../../utils/helpers';
 
